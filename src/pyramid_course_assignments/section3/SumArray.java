@@ -10,6 +10,10 @@ public class SumArray {
 
     public static int sumArray(int[] nums){
         // ↓↓↓↓ your code goes here ↓↓↓↓
-        return 0;
+        int sum = 0;
+        for (int i : nums) {
+            sum += i;
+        }
+        return sum;
     }
 }

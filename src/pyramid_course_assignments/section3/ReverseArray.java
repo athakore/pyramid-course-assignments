@@ -11,6 +11,11 @@ public class ReverseArray {
 
     public static int[] reverseArray (int[] myArray) {
         // ↓↓↓↓ your code goes here ↓↓↓↓
-        return new int[]{};
+        if(myArray.length <= 1) return myArray;
+        int[] result = new int[myArray.length];
+        for(int i = 0, j = myArray.length - 1; i < myArray.length; i++, j--){
+            result[i] = myArray[j];
+        }
+        return result;
     }
 }
