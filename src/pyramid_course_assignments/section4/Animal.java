@@ -8,4 +8,8 @@ package pyramid_course_assignments.section4;
 
 public class Animal {
     // ↓↓↓↓ your code goes here ↓↓↓↓
+    String hair = "Yellow";
+    int legs = 4;
+    String eyeColor = "blue";
+    String gender = "Male";
 }

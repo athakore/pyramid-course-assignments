@@ -15,4 +15,10 @@ package pyramid_course_assignments.section4;
 
 public class AccessModifiers {
     // ↓↓↓↓ your code goes here ↓↓↓↓
+    private String name;
+    private int age;
+    public String hairColor;
+    protected int height;
+    public double gasMillage;
+    String companyName;
 }

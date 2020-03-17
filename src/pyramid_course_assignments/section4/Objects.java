@@ -8,4 +8,6 @@ package pyramid_course_assignments.section4;
 
 public class Objects {
     // ↓↓↓↓ your code goes here ↓↓↓↓
+    Animal animal = new Animal();
 }
+

@@ -15,4 +15,16 @@ package pyramid_course_assignments.section4;
 
 public class CreatingMethods {
     // ↓↓↓↓ your code goes here ↓↓↓↓
+    public String name = "Jack";
+    public String parkName = "(And Around We Go)";
+    public int lapsWalked = 10;
+
+    public int returnLapsWalked() {
+        lapsWalked = 5;
+        return lapsWalked;
+    }
+
+    public String takeAWalk() {
+        return String.format("%s you walked %s laps at %s today!", name, returnLapsWalked(), parkName);
+    }
 }

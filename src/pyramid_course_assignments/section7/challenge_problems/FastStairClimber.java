@@ -11,10 +11,13 @@ package pyramid_course_assignments.section7.challenge_problems;
         fastStairClimber(4) => 7
 
 */
-
 public class FastStairClimber {
+
+    public static void main(String[] args) {
+        System.out.println(fastStairClimber(4));
+    }
     public static int fastStairClimber(int n) {
         // ↓↓↓↓ your code goes here ↓↓↓↓
-        return 0;
+        return (int) Math.pow(2, n) - n;
     }
 }

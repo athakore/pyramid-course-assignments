@@ -14,5 +14,8 @@ public class Constructors {
 
     public Constructors(String name, int age, double weight) {
         // ↓↓↓↓ your code goes here ↓↓↓↓
+        this.name = name;
+        this.age = age;
+        this.weight = weight;
     }
 }

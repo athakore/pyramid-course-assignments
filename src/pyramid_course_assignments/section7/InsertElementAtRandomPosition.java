@@ -1,5 +1,7 @@
 package pyramid_course_assignments.section7;
 
+import javax.swing.table.AbstractTableModel;
+import java.lang.reflect.Array;
 import java.util.ArrayList;
 
 /*
@@ -16,6 +18,8 @@ import java.util.ArrayList;
 public class InsertElementAtRandomPosition {
     public static ArrayList<Integer> insertElementAtRandomPosition(ArrayList<Integer> nums, int index, int element) {
         // ↓↓↓↓ your code goes here ↓↓↓↓
-        return new ArrayList<>();
+        ArrayList<Integer> result = nums;
+        if(index <= nums.size())result.add(index,element);
+        return result;
     }
 }

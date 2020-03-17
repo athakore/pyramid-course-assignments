@@ -17,6 +17,16 @@ import java.util.ArrayList;
 public class EvenAfterOdds {
     public static ArrayList<Long> evenAfterOdds(ArrayList<Long> nums) {
         // ↓↓↓↓ your code goes here ↓↓↓↓
-        return new ArrayList<>();
+        ArrayList<Long> result = nums;
+        for (int i = 0; i < nums.size(); i++) {
+            for (int j = 0; j < nums.size() - i - 1; j++) {
+                if( result.get(j) % 2 == 0 && result.get(j + 1) % 2 == 1) {
+                    Long temp = result.get(j);
+                    result.set(j, result.get(j + 1));
+                    result.set(j + 1, temp);
+                }
+            }
+        }
+        return result;
     }
 }

@@ -26,6 +26,28 @@ import java.util.stream.Collectors;
 public class AddOneToArrayList {
     public static ArrayList<Long> addOneToArrayList(ArrayList<Long> ints) {
         // ↓↓↓↓ your code goes here ↓↓↓↓
-        return new ArrayList<>();
+        ArrayList<Long> result = ints;
+        if(ints.size() == 0){
+            result.add(Long.valueOf(1));
+            return result;
+        }
+        while(result.get(0) == Long.valueOf(0)) {
+            result.remove(0);
+        }
+        for(int i = result.size() - 1; i >= 0; i--) {
+            if(result.get(i) == 9 && i == 0) {
+                result.add(0,Long.valueOf(1));
+                break;
+            }
+            else if (result.get(i) == 9 && i != 0) {
+                result.set(i, Long. valueOf(0));
+            }
+            else {
+                Long temp = result.get(i) + 1;
+                result.set(i, temp);
+                break;
+            }
+        }
+        return result;
     }
 }
