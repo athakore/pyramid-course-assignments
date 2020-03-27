@@ -8,9 +8,11 @@ package pyramid_course_assignments.section9;
         squaringAnArray([1 2 3]) => [1 4 9]
 */
 
+import java.util.Arrays;
+
 public class SquaringAnArray {
     public static int[] squaringAnArray(int[] nums) {
         // ↓↓↓↓ your code goes here ↓↓↓↓
-        return new int[]{};
+        return Arrays.stream(nums).map(num -> num * num).toArray();
     }
 }

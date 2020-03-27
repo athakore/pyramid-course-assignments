@@ -4,19 +4,16 @@
     <list default="true" id="19ea3afb-ea61-4f1b-833b-8234cfb06a21" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyramid-course-assignments.iml" beforeDir="false" afterPath="$PROJECT_DIR$/pyramid-course-assignments.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pyramid_course_assignments/section3/FindTheDuplicatesInAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pyramid_course_assignments/section3/FindTheDuplicatesInAnArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pyramid_course_assignments/section3/RemoveDuplicatesFromArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pyramid_course_assignments/section3/RemoveDuplicatesFromArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pyramid_course_assignments/section4/AccessModifiers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pyramid_course_assignments/section4/AccessModifiers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pyramid_course_assignments/section4/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pyramid_course_assignments/section4/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pyramid_course_assignments/section4/Constructors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pyramid_course_assignments/section4/Constructors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pyramid_course_assignments/section4/CreatingMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pyramid_course_assignments/section4/CreatingMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pyramid_course_assignments/section4/Objects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pyramid_course_assignments/section4/Objects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pyramid_course_assignments/section7/CountDuplicatesWithHashmap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pyramid_course_assignments/section7/CountDuplicatesWithHashmap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pyramid_course_assignments/section7/InsertElementAtRandomPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pyramid_course_assignments/section7/InsertElementAtRandomPosition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pyramid_course_assignments/section7/RemoveDuplicatesWithASet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pyramid_course_assignments/section7/RemoveDuplicatesWithASet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pyramid_course_assignments/section7/challenge_problems/AddOneToArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pyramid_course_assignments/section7/challenge_problems/AddOneToArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pyramid_course_assignments/section7/challenge_problems/EvenAfterOdds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pyramid_course_assignments/section7/challenge_problems/EvenAfterOdds.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pyramid_course_assignments/section7/challenge_problems/FastStairClimber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pyramid_course_assignments/section7/challenge_problems/FastStairClimber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pyramid_course_assignments/section8/FirstRecordOfTextsLastRecordOfCalls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pyramid_course_assignments/section8/FirstRecordOfTextsLastRecordOfCalls.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pyramid_course_assignments/section8/LongestCall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pyramid_course_assignments/section8/LongestCall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pyramid_course_assignments/section8/OutgoingCallsFromBangalore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pyramid_course_assignments/section8/OutgoingCallsFromBangalore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pyramid_course_assignments/section8/PotentialTelemarketers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pyramid_course_assignments/section8/PotentialTelemarketers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pyramid_course_assignments/section8/TotalNumberOfCalls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pyramid_course_assignments/section8/TotalNumberOfCalls.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pyramid_course_assignments/section9/CreatingAStreamFromAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pyramid_course_assignments/section9/CreatingAStreamFromAnArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pyramid_course_assignments/section9/RemoveOddsFromArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pyramid_course_assignments/section9/RemoveOddsFromArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pyramid_course_assignments/section9/ReverseAStringReduce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pyramid_course_assignments/section9/ReverseAStringReduce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pyramid_course_assignments/section9/SquaringAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pyramid_course_assignments/section9/SquaringAnArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pyramid_course_assignments/section9/SumArrayUsingReduce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pyramid_course_assignments/section9/SumArrayUsingReduce.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +49,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../candidate-assessment" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -62,7 +59,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -78,20 +75,7 @@
     </key>
   </component>
   <component name="ReplState" timestamp="1579815681367">{:repl-history {:ide [], :local [{:command &quot;(ns core\n  (:require [clojure.reflect :as r]\n            [clojure.test.check.generators :as gen]\n            [clojure.test.check.properties :as prop]\n            [clojure.test.check :as tc]\n            [test-helper :as th])\n  (:use [com.rpl.specter])\n  (:import (java.io ByteArrayOutputStream PrintStream)\n           (pyramid_course_assignments.assignment1 HelloWorld)\n           (pyramid_course_assignments.assignment4 IncrementDecrement)\n           (pyramid_course_assignments.assignment2 PrimitiveDataTypes)\n           (pyramid_course_assignments.assignment3 VariableAssignment)\n           (pyramid_course_assignments.assignment5 StringManipulation)\n           (pyramid_course_assignments.assignment6 UserInputAssignment)\n           (pyramid_course_assignments.assignment7 IfStatement)\n           (pyramid_course_assignments.assignment8 IfElse)\n           (pyramid_course_assignments.assignment9 LogicalStatements)\n           (pyramid_course_assignments.assignment10 SwitchStatements)\n           (pyramid_course_assignments.assignment11 WhileLoop)\n           (pyramid_course_assignments.assignment12 ForLoop)\n           (pyramid_course_assignments.assignment13 DoWhile)\n           (pyramid_course_assignments.section3 SumArray)))\n\n(defn hello-world-test\n  []\n  (let [out (ByteArrayOutputStream.)]\n    (System/setOut (PrintStream. out))\n    (HelloWorld/main (into-array String \&quot;\&quot;))\n    (= (.toString out) \&quot;Hello World\\n\&quot;)))\n\n(defn increment-test\n  []\n  (if (not (re-find #\&quot;\\+\\+\&quot;\n                    (slurp \&quot;src/pyramid_course_assignments/assignment4/IncrementDecrement.java\&quot;)))\n    false\n    (if (= (IncrementDecrement/increment) 2)\n      true\n      false)))\n\n(defn decrement-test\n  []\n  (if (not (re-find #\&quot;\\-\\-\&quot;\n                    (slurp \&quot;src/pyramid_course_assignments/assignment4/IncrementDecrement.java\&quot;)))\n    false\n    (if (= (IncrementDecrement/decrement) 0)\n      true\n      false)))\n\n(def prim-datatypes\n  {:smallInteger 'short\n   :takeABite 'byte\n   :largeInteger 'long\n   :mediumInteger 'int\n   :largeFloat 'double\n   :thisIsTrue 'boolean\n   :smallFloat 'float\n   :iHaveCharacter 'char})\n\n(defn extract-fields\n  [obj]\n  (for [{name :name t :type :as x} (:members (r/reflect obj))\n        :when (= (type x) clojure.reflect.Field)]\n       [(keyword name) t]))\n\n(defn invoke-field [obj fn-name-string]\n  (let [m (.. obj getClass (getDeclaredField (str (symbol fn-name-string))))]\n    (. m (setAccessible true))\n    (. m (get obj))))\n\n\n(defn pop-out-primitive-data-types\n  []\n  (filter (comp not nil?)\n          (map (fn [{type :type name :name}]\n                 (if (= name 'pyramid_course_assignments.assignment2.PrimitiveDataTypes)\n                   nil\n                   [name type]))\n               (:members (r/reflect PrimitiveDataTypes)))))\n\n(defn check-primitives\n  []\n  (map (fn [[name val]]\n         (if (= val (prim-datatypes (keyword name)))\n           val\n           (str \&quot;wrong primitive data type for: \&quot; name \&quot;\\n\&quot;)))\n       (pop-out-primitive-data-types)))\n\n(defn primitive-datatypes-test\n  []\n  (let [prims (check-primitives)\n        passed? (empty? (filter true? (map string? prims)))]\n    (if-not passed?\n      (filter string? prims)\n      true)))\n\n(defn variable-assignment-test\n  []\n  (let [obj (new VariableAssignment)\n        fields (extract-fields obj)\n        field-types (sort (map (fn [[_ type]] type)\n                               fields))\n        field-names (sort (map (fn [[name _]] name)\n                               fields))\n        values (sort (map (fn [x] (str (invoke-field obj x))) field-names))]\n    (if (= fields\n           '(boolean float int))\n      (str \&quot;Incorrect declared types: \&quot; field-types)\n      (if (= values\n             '(\&quot;3\&quot; \&quot;3.14\&quot; \&quot;false\&quot;))\n        true\n        (str \&quot;\\n Expected values from fields: 3, 3.14, false,\\n however values received were: \&quot;\n             (apply str\n                    (interpose \&quot; \&quot;\n                               (transform [ALL]\n                                          read-string\n                                          (into []\n                                                values)))))))))\n\n\n(defn nest-if-nots\n  [code]\n  (map (fn [x] (conj x 'if-not))\n       (partition 2\n                  code)))\n\n(defn find-if-not\n  [code]\n  (let [found? (transient [false])]\n    (clojure.walk/postwalk (fn [x]\n                             (if (= x 'if-not)\n                               (conj! found? true))\n                             x)\n                           code)\n    (last (persistent! found?))))\n\n(defn append-if-not\n  [st val]\n  (if-not (find-if-not (rest st))\n    (concat st [val])\n    (let [init (butlast st)\n          last (last st)]\n      (concat init [(append-if-not last val)]))))\n\n(defmacro if-test\n  [&amp; code]\n  (let [code (map-indexed (fn [i e] (if-not (zero? (mod i 2))\n                                      [false e]\n                                      e))\n                          code)]\n    `( ~@(append-if-not (reduce\n                          (fn [acc next]\n                            (append-if-not acc next))\n                          (nest-if-nots code))\n                        [true \&quot;\&quot;]))))\n\n(defn string-manipulation-test\n  []\n  (let [one (StringManipulation/concat)\n        two (StringManipulation/interpolation)]\n    (if-test (= one \&quot;cats are bad\&quot;)\n             (str \&quot;Expected: cats are bad, but your result was: \&quot; one)\n             (= two \&quot;the weather is good\&quot;)\n             (str \&quot;Expected: the weather is good, but your result was: \&quot; two))))\n\n\n(defn user-input-test\n  []\n  (let [out (ByteArrayOutputStream.)\n        user (UserInputAssignment/convertAndAddNums \&quot;1\&quot; \&quot;2\&quot;)]\n    (System/setOut (PrintStream. out))\n    (.println System/out user)\n    (if-test (= (.toString out) \&quot;3\\n\&quot;)\n             (str \&quot;Input was \\\&quot;1\\\&quot; and \\\&quot;2\\\&quot;, output should have been: 3, however it was: \&quot; user))))\n\n(defn if-statement-test\n  []\n  (:pass? (tc/quick-check 100\n                          (prop/for-all [[n m] (gen/tuple gen/nat gen/nat)]\n                                        (if-not (or (nil? n) (nil? m))\n                                          (= (IfStatement/max n m) (Math/max ^long n ^long m))\n                                          true)))))\n\n(defn if-else-test\n  []\n  (let [human-response (IfElse/ifElse \&quot;human\&quot;)\n        goblin-response (IfElse/ifElse \&quot;goblin\&quot;)]\n    (if-test (re-find #\&quot;else\&quot;\n                      (slurp \&quot;src/pyramid_course_assignments/assignment8/IfElse.java\&quot;))\n             \&quot;Else was not included in your solution\&quot;\n             (= human-response \&quot;you are one of us!\&quot;)\n             (str \&quot;ifElse returned: \&quot; human-response \&quot; when given \\\&quot;human\\\&quot;, instead of: you are one of us!\&quot;)\n             (= goblin-response \&quot;attack the goblin!\&quot;)\n             (str \&quot;ifElse returned: \&quot; goblin-response \&quot;when given \\\&quot;goblin\\\&quot;, instead of: attack the goblin!\&quot;))))\n\n(defn logical-statements-test\n  []\n  (let [result (tc/quick-check 100 (prop/for-all [[a b c] (gen/tuple gen/boolean\n                                                                     gen/boolean\n                                                                     gen/boolean)]\n                                                 (and (= (LogicalStatements/tripleShot a b c)\n                                                         (and a b c))\n                                                      (= (LogicalStatements/tripleShotAgain a b c)\n                                                         (or a b c)))))]\n       (if-not (:pass? result)\n         (str \&quot;logical statements did not pass with the given input: \&quot; (first (:fail result)))\n         true)))\n\n(defn switch-it-up-test\n  []\n  (let [one    (SwitchStatements/switchItUp 1)\n        two    (SwitchStatements/switchItUp 2)\n        three  (SwitchStatements/switchItUp 3)\n        four   (SwitchStatements/switchItUp 4)\n        five   (SwitchStatements/switchItUp 5)]\n    (if-test (= one \&quot;one\&quot;)\n             (str \&quot;switchItUp was given 1 and returned \\\&quot;\&quot; one \&quot;\\\&quot; instead of: \\\&quot;one\\\&quot;\&quot;)\n             (= two \&quot;two\&quot;)\n             (str \&quot;switchItUp was given 2 and returned \\\&quot;\&quot; two \&quot;\\\&quot; instead of: \\\&quot;two\\\&quot;\&quot;)\n             (= three \&quot;three\&quot;)\n             (str \&quot;switchItUp was given 3 and returned \\\&quot;\&quot; three \&quot;\\\&quot; instead of: \\\&quot;three\\\&quot;\&quot;)\n             (= four \&quot;four\&quot;)\n             (str \&quot;switchItUp was given 4 and returned \\\&quot;\&quot; four \&quot;\\\&quot; instead of: \\\&quot;four\\\&quot;\&quot;)\n             (= five \&quot;five\&quot;)\n             (str \&quot;switchItUp was given 5 and returned \\\&quot;\&quot; five \&quot;\\\&quot; instead of: \\\&quot;five\\\&quot;\&quot;))))\n\n(defn while-loop-test\n  []\n  (let [out (ByteArrayOutputStream.)]\n    (System/setOut (PrintStream. out))\n    (WhileLoop/loopdyLoop 5 10)\n    (let [output (.toString out)]\n      (if-test (= output \&quot;5\\n6\\n7\\n8\\n9\\n10\\n\&quot;)\n               (str \&quot;loopdyLoop was given 5 and 10 it should have printed 5,6,7,8,9,10, however it printed: \\n\&quot; output)))))\n\n\n(comment (th/def-test for-loop-test\n                      (let [user (atom nil)\n                            test (atom nil)\n                            result (tc/quick-check 100\n                                                   (prop/for-all [[a b] (gen/tuple gen/nat gen/nat)]\n                                                                 (reset! user (reduce + 0 (range a (inc b))))\n                                                                 (reset! test (ForLoop/forLoop a b))\n                                                                 (= @user @test)))]\n                        (if-not (:pass? result)\n                          (str \&quot;forLoop was given \&quot; (first (:fail result)) \&quot;, Expected output was: \&quot; @test \&quot;, However, output was: \&quot; @user)\n                          true))))\n\n(th/def-prop-test for-loop-test\n                  100\n                  [[a b] (gen/tuple gen/nat gen/nat)]\n                  (reduce + 0 (range a (inc b)))\n                  (ForLoop/forLoop a b))\n\n(th/def-prop-test do-while-test\n                  100\n                  [s gen/string-alpha-numeric]\n                  (reduce str \&quot;\&quot; (reverse s))\n                  (DoWhile/doWhile s))\n\n(th/def-prop-test sum-array-test\n                  100\n                  [s (gen/not-empty (gen/vector gen/int))]\n                  (reduce + s)\n                  (SumArray/sumArray (int-array ^int s)))&quot;, :offset 10152, :ns &quot;user&quot;} {:command &quot;(ns test-helper\n  (:require [clojure.test.check :as tc]\n            [clojure.test.check.properties :as prop])\n  (:import (pyramid_course_assignments FormatTestCode)))\n\n(def function-links (atom {}))\n(def dev-mode true)\n(def test-file (str (System/getProperty \&quot;user.dir\&quot;) \&quot;/test/pyramid_course_assignments/LoadTestFile.java\&quot;))\n\n\n(defn inject-clojure-tests\n  []\n  (spit test-file\n        (FormatTestCode/formatter\n          (apply str\n                 (map (fn [[_ val]] (str val \&quot;\\n\&quot;))\n                      @function-links)))))\n\n(defn create-java-links\n  [name]\n  (let [java-code-name (symbol (apply str\n                                      (map (fn [x] (if (= x \\-)\n                                                     \\_\n                                                     x))\n                                           (str name))))\n        clojure-code-name (str name)]\n    (when dev-mode\n      (swap! function-links\n             assoc\n             (keyword name)\n             (str \&quot;public static Var \&quot;\n                  java-code-name\n                  \&quot; = RT.var(\\\&quot;core\\\&quot;, \\\&quot;\&quot;\n                  clojure-code-name\n                  \&quot;\\\&quot;);\&quot;))\n      (inject-clojure-tests))))\n\n\n(defmacro def-test\n  [name code]\n  (create-java-links name)\n  `(defn ~name [] ~code))\n\n(defmacro def-prop-test\n  [name num-tests prop user test]\n  (create-java-links name)\n  `(defn ~name\n     []\n     (let [user# (atom nil)\n           test# (atom nil)\n           result# (tc/quick-check ~num-tests\n                                   (prop/for-all ~prop\n                                                 (do (reset! user# ~user)\n                                                     (reset! test# ~test)\n                                                     (= (deref user#)\n                                                        (deref test#)))))]\n       (if-not (:pass? result#)\n         (if (.getMessage (:result result#))\n             [false (.getMessage (:result result#))]\n             [false (str \&quot;\\n\&quot;\n                         ~(last (clojure.string/split (first (map str test)) #\&quot;/\&quot;))\n                         \&quot; was given \&quot;\n                         (first (:fail result#))\n                         \&quot;,\\nExpected output was: \&quot;\n                         (deref test#)\n                         \&quot;,\\nHowever, output was: \&quot;\n                         (deref user#)\n                         \&quot;\\n\&quot;)])\n         [true \&quot;\&quot;]))))&quot;, :offset 2396, :ns &quot;core&quot;}], :remote []}}</component>
-  <component name="RunManager" selected="JUnit.FastStairClimberTest">
-    <configuration name="FastStairClimber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pyramid_course_assignments.section7.challenge_problems.FastStairClimber" />
-      <module name="pyramid-course-assignments" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pyramid_course_assignments.section7.challenge_problems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.OutgoingCallsFromBangaloreTest">
     <configuration name="Unnamed" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false" nameIsGenerated="true">
       <module name="pyramid-course-assignments" />
       <setting name="replType" value="NREPL" />
@@ -107,7 +91,6 @@
     <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
       <setting name="replType" value="NREPL" />
       <setting name="execution" value="LEININGEN" />
-      <module name="" />
       <setting name="jvmArgs" value="" />
       <setting name="parameters" value="" />
       <setting name="workingDir" value="" />
@@ -122,84 +105,91 @@
       <setting name="replType" value="SOCKET" />
       <setting name="configType" value="SPECIFY" />
       <setting name="fixLineNumbers" value="false" />
-      <module name="" />
       <method v="2" />
     </configuration>
-    <configuration name="AddOneToArrayListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="All in pyramid-course-assignments" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pyramid-course-assignments" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OutgoingCallsFromBangaloreTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="pyramid-course-assignments" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pyramid_course_assignments.section7.challenge_problems.*" />
+          <option name="PATTERN" value="pyramid_course_assignments.section8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="pyramid_course_assignments.section7.challenge_problems" />
-      <option name="MAIN_CLASS_NAME" value="pyramid_course_assignments.section7.challenge_problems.AddOneToArrayListTest" />
+      <option name="PACKAGE_NAME" value="pyramid_course_assignments.section8" />
+      <option name="MAIN_CLASS_NAME" value="pyramid_course_assignments.section8.OutgoingCallsFromBangaloreTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EvenAfterOddsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PotentialTelemarketersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="pyramid-course-assignments" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pyramid_course_assignments.section7.challenge_problems.*" />
+          <option name="PATTERN" value="pyramid_course_assignments.section8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="pyramid_course_assignments.section7.challenge_problems" />
-      <option name="MAIN_CLASS_NAME" value="pyramid_course_assignments.section7.challenge_problems.EvenAfterOddsTest" />
+      <option name="PACKAGE_NAME" value="pyramid_course_assignments.section8" />
+      <option name="MAIN_CLASS_NAME" value="pyramid_course_assignments.section8.PotentialTelemarketersTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FastStairClimberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SquaringAnArrayEnsuringMapIsUsedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="pyramid-course-assignments" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pyramid_course_assignments.section7.challenge_problems.*" />
+          <option name="PATTERN" value="pyramid_course_assignments.section9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="pyramid_course_assignments.section7.challenge_problems" />
-      <option name="MAIN_CLASS_NAME" value="pyramid_course_assignments.section7.challenge_problems.FastStairClimberTest" />
+      <option name="PACKAGE_NAME" value="pyramid_course_assignments.section9" />
+      <option name="MAIN_CLASS_NAME" value="pyramid_course_assignments.section9.SquaringAnArrayEnsuringMapIsUsedTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicatesWithASetTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SumArrayUsingReduceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="pyramid-course-assignments" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pyramid_course_assignments.section7.*" />
+          <option name="PATTERN" value="pyramid_course_assignments.section9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="pyramid_course_assignments.section7" />
-      <option name="MAIN_CLASS_NAME" value="pyramid_course_assignments.section7.RemoveDuplicatesWithASetTest" />
+      <option name="PACKAGE_NAME" value="pyramid_course_assignments.section9" />
+      <option name="MAIN_CLASS_NAME" value="pyramid_course_assignments.section9.SumArrayUsingReduceTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FastStairClimber" />
       <item itemvalue="Clojure REPL.Unnamed" />
-      <item itemvalue="JUnit.RemoveDuplicatesWithASetTest" />
-      <item itemvalue="JUnit.AddOneToArrayListTest" />
-      <item itemvalue="JUnit.EvenAfterOddsTest" />
-      <item itemvalue="JUnit.FastStairClimberTest" />
+      <item itemvalue="JUnit.SquaringAnArrayEnsuringMapIsUsedTest" />
+      <item itemvalue="JUnit.SumArrayUsingReduceTest" />
+      <item itemvalue="JUnit.All in pyramid-course-assignments" />
+      <item itemvalue="JUnit.PotentialTelemarketersTest" />
+      <item itemvalue="JUnit.OutgoingCallsFromBangaloreTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FastStairClimberTest" />
-        <item itemvalue="Application.FastStairClimber" />
-        <item itemvalue="JUnit.EvenAfterOddsTest" />
-        <item itemvalue="JUnit.AddOneToArrayListTest" />
-        <item itemvalue="JUnit.RemoveDuplicatesWithASetTest" />
+        <item itemvalue="JUnit.OutgoingCallsFromBangaloreTest" />
+        <item itemvalue="JUnit.PotentialTelemarketersTest" />
+        <item itemvalue="JUnit.All in pyramid-course-assignments" />
+        <item itemvalue="JUnit.SumArrayUsingReduceTest" />
+        <item itemvalue="JUnit.SquaringAnArrayEnsuringMapIsUsedTest" />
       </list>
     </recent_temporary>
   </component>
@@ -255,10 +245,11 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2334" y="168" width="1193" height="704" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582818306691" />
-    <state x="2012" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1579708258783">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="123" y="127" width="2315" height="1186" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585165876215">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="2012" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579708258783" />
+    <state x="123" y="127" width="2315" height="1186" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.2560.1440/2560.0.1920.1080@0.0.2560.1440" timestamp="1585165876215" />
     <state x="720" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582776623833">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -293,8 +284,8 @@
     <state x="548" y="-866" key="FileChooserDialogImpl/0.0.1366.768/-255.-1080.1920.1080@-255.-1080.1920.1080" timestamp="1584119347105" />
     <state x="571" y="152" key="FileChooserDialogImpl/0.0.1366.768/-295.-1080.1920.1080@0.0.1366.768" timestamp="1583508696967" />
     <state x="2722" y="206" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579706370115" />
-    <state width="1877" height="363" key="GridCell.Tab.0.bottom" timestamp="1583787729993">
-      <screen x="-255" y="-1080" width="1920" height="1080" />
+    <state width="2517" height="507" key="GridCell.Tab.0.bottom" timestamp="1585316853332">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1877" height="414" key="GridCell.Tab.0.bottom/0.0.1366.728/-295.-1080.1920.1040@-295.-1080.1920.1040" timestamp="1583354769447" />
     <state width="1323" height="263" key="GridCell.Tab.0.bottom/0.0.1366.728/-295.-1080.1920.1040@0.0.1366.728" timestamp="1583351646359" />
@@ -305,8 +296,9 @@
     <state width="1877" height="335" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582832860529" />
     <state width="1877" height="335" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582822657401" />
     <state width="1877" height="382" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582777482802" />
-    <state width="1877" height="363" key="GridCell.Tab.0.center" timestamp="1583787729993">
-      <screen x="-255" y="-1080" width="1920" height="1080" />
+    <state width="2517" height="507" key="GridCell.Tab.0.bottom/0.0.2560.1440/2560.0.1920.1080@0.0.2560.1440" timestamp="1585316853332" />
+    <state width="2517" height="507" key="GridCell.Tab.0.center" timestamp="1585316853332">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1877" height="414" key="GridCell.Tab.0.center/0.0.1366.728/-295.-1080.1920.1040@-295.-1080.1920.1040" timestamp="1583354769447" />
     <state width="1323" height="263" key="GridCell.Tab.0.center/0.0.1366.728/-295.-1080.1920.1040@0.0.1366.728" timestamp="1583351646359" />
@@ -317,8 +309,9 @@
     <state width="1877" height="335" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582832860529" />
     <state width="1877" height="335" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582822657401" />
     <state width="1877" height="382" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582777482802" />
-    <state width="1877" height="363" key="GridCell.Tab.0.left" timestamp="1583787729993">
-      <screen x="-255" y="-1080" width="1920" height="1080" />
+    <state width="2517" height="507" key="GridCell.Tab.0.center/0.0.2560.1440/2560.0.1920.1080@0.0.2560.1440" timestamp="1585316853332" />
+    <state width="2517" height="507" key="GridCell.Tab.0.left" timestamp="1585316853331">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1877" height="414" key="GridCell.Tab.0.left/0.0.1366.728/-295.-1080.1920.1040@-295.-1080.1920.1040" timestamp="1583354769447" />
     <state width="1323" height="263" key="GridCell.Tab.0.left/0.0.1366.728/-295.-1080.1920.1040@0.0.1366.728" timestamp="1583351646357" />
@@ -329,8 +322,9 @@
     <state width="1877" height="335" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582832860529" />
     <state width="1877" height="335" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582822657401" />
     <state width="1877" height="382" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582777482802" />
-    <state width="1877" height="363" key="GridCell.Tab.0.right" timestamp="1583787729993">
-      <screen x="-255" y="-1080" width="1920" height="1080" />
+    <state width="2517" height="507" key="GridCell.Tab.0.left/0.0.2560.1440/2560.0.1920.1080@0.0.2560.1440" timestamp="1585316853331" />
+    <state width="2517" height="507" key="GridCell.Tab.0.right" timestamp="1585316853332">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1877" height="414" key="GridCell.Tab.0.right/0.0.1366.728/-295.-1080.1920.1040@-295.-1080.1920.1040" timestamp="1583354769447" />
     <state width="1323" height="263" key="GridCell.Tab.0.right/0.0.1366.728/-295.-1080.1920.1040@0.0.1366.728" timestamp="1583351646359" />
@@ -341,32 +335,37 @@
     <state width="1877" height="335" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582832860529" />
     <state width="1877" height="335" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582822657401" />
     <state width="1877" height="382" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582777482802" />
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1583247265551">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="2517" height="507" key="GridCell.Tab.0.right/0.0.2560.1440/2560.0.1920.1080@0.0.2560.1440" timestamp="1585316853332" />
+    <state width="2517" height="507" key="GridCell.Tab.1.bottom" timestamp="1585316853332">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583247265551" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582831495407" />
     <state width="1869" height="333" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579733696653" />
-    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1583247265551">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="2517" height="507" key="GridCell.Tab.1.bottom/0.0.2560.1440/2560.0.1920.1080@0.0.2560.1440" timestamp="1585316853332" />
+    <state width="2517" height="507" key="GridCell.Tab.1.center" timestamp="1585316853332">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1583247265551" />
     <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582831495407" />
     <state width="1869" height="333" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579733696653" />
-    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1583247265551">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="2517" height="507" key="GridCell.Tab.1.center/0.0.2560.1440/2560.0.1920.1080@0.0.2560.1440" timestamp="1585316853332" />
+    <state width="2517" height="507" key="GridCell.Tab.1.left" timestamp="1585316853332">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1583247265551" />
     <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582831495407" />
     <state width="1869" height="333" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579733696653" />
-    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1583247265551">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="2517" height="507" key="GridCell.Tab.1.left/0.0.2560.1440/2560.0.1920.1080@0.0.2560.1440" timestamp="1585316853332" />
+    <state width="2517" height="507" key="GridCell.Tab.1.right" timestamp="1585316853332">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1583247265551" />
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582831495407" />
     <state width="1869" height="333" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579733696653" />
-    <state x="-255" y="-1080" width="1920" height="1080" key="SettingsEditor" timestamp="1583778753319">
-      <screen x="-255" y="-1080" width="1920" height="1080" />
+    <state width="2517" height="507" key="GridCell.Tab.1.right/0.0.2560.1440/2560.0.1920.1080@0.0.2560.1440" timestamp="1585316853332" />
+    <state x="0" y="0" width="1920" height="1080" key="SettingsEditor" timestamp="1585243708516">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="-197" y="-1080" width="1822" height="1040" key="SettingsEditor/0.0.1366.728/-295.-1080.1920.1040@-295.-1080.1920.1040" timestamp="1583267812313" />
     <state x="69" y="0" key="SettingsEditor/0.0.1366.728/-295.-1080.1920.1040@0.0.1366.728" timestamp="1583351639518" />
@@ -374,8 +373,9 @@
     <state x="-255" y="-1080" width="1920" height="1080" key="SettingsEditor/0.0.1366.768/-255.-1080.1920.1080@-255.-1080.1920.1080" timestamp="1583778753319" />
     <state x="424" y="0" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582828218092" />
     <state x="2344" y="0" width="1296" height="1016" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582818318089" />
-    <state x="405" y="223" key="com.intellij.ide.util.TipDialog" timestamp="1584364462922">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="0" y="0" key="SettingsEditor/0.0.2560.1440/2560.0.1920.1080@0.0.2560.1440" timestamp="1585243708516" />
+    <state x="759" y="418" key="com.intellij.ide.util.TipDialog" timestamp="1585158143904">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="274" y="-779" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-295.-1080.1920.1040@-295.-1080.1920.1040" timestamp="1583267640445" />
     <state x="405" y="211" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-295.-1080.1920.1040@0.0.1366.728" timestamp="1583351300464" />
@@ -385,6 +385,7 @@
     <state x="569" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582827712831" />
     <state x="569" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582817910105" />
     <state x="569" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582770539788" />
+    <state x="759" y="418" key="com.intellij.ide.util.TipDialog/0.0.2560.1440/2560.0.1920.1080@0.0.2560.1440" timestamp="1585158143904" />
     <state x="2744" y="698" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1579706159998">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -398,10 +399,11 @@
     </state>
     <state x="-204" y="-1080" key="new project wizard/0.0.1366.728/-295.-1080.1920.1040@-295.-1080.1920.1040" timestamp="1583268075013" />
     <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1583247254543" />
-    <state x="344" y="4" width="696" height="724" key="search.everywhere.popup" timestamp="1583348758644">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="645" y="8" width="1305" height="1433" key="search.everywhere.popup" timestamp="1585228341067">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="344" y="4" width="696" height="724" key="search.everywhere.popup/0.0.1366.728/-295.-1080.1920.1040@0.0.1366.728" timestamp="1583348758644" />
     <state x="2403" y="5" width="952" height="1034" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1581015072826" />
+    <state x="645" y="8" width="1305" height="1433" key="search.everywhere.popup/0.0.2560.1440/2560.0.1920.1080@0.0.2560.1440" timestamp="1585228341067" />
   </component>
 </project>

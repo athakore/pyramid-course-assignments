@@ -10,9 +10,12 @@ package pyramid_course_assignments.section9;
         removeOddsFromArray([]) => []
 */
 
+import java.util.Arrays;
+import java.util.stream.Stream;
+
 public class RemoveOddsFromArray {
     public static int[] removeOddsFromArray(int[] nums) {
         // ↓↓↓↓ your code goes here ↓↓↓↓
-        return new int[]{};
+        return Arrays.stream(nums).filter(num -> num % 2 == 1).toArray();
     }
 }

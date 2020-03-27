@@ -7,9 +7,11 @@ package pyramid_course_assignments.section9;
         reverseAStringReduce("abc") => "cba"
 */
 
+import java.util.Arrays;
+
 public class ReverseAStringReduce {
     public static String reverseAStringReduce(String letters) {
         // ↓↓↓↓ your code goes here ↓↓↓↓
-        return "";
+        return Arrays.stream(letters.split("")).reduce("", (acc, next) -> next + acc);
     }
 }

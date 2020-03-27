@@ -14,10 +14,10 @@ import java.util.stream.Stream;
 public class CreatingAStreamFromAnArray {
     public static IntStream creatingAStreamFromAnArray(int[] arr) {
         // ↓↓↓↓ your code goes here ↓↓↓↓
-        return IntStream.rangeClosed(1,2);
+        return Arrays.stream(arr);
     }
     public static Stream creatingAStreamFromAList(List list) {
         // ↓↓↓↓ your code goes here ↓↓↓↓
-        return Stream.of(1,2);
+        return list.stream();
     }
 }

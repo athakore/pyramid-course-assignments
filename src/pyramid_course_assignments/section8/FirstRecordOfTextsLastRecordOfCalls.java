@@ -15,9 +15,21 @@ package pyramid_course_assignments.section8;
         ]
 */
 
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.util.List;
+
 public class FirstRecordOfTextsLastRecordOfCalls {
-    public static String[] firstRecordOfTextsLastRecordOfCalls() {
+    public static String[] firstRecordOfTextsLastRecordOfCalls() throws IOException {
         // ↓↓↓↓ your code goes here ↓↓↓↓
-        return new String[]{};
+        List<String> callList = Files.readAllLines(Paths.get("./src/pyramid_course_assignments/section8/calls.csv"));
+        List<String> textList = Files.readAllLines(Paths.get("./src/pyramid_course_assignments/section8/texts.csv"));
+        String[] lastCall = callList.get(callList.size() - 1).split(",");
+        String[] firstText = textList.get(0).split(",");
+        String[] result = new String[2];
+        result[0] = String.format("First record of texts, %s texts %s at time %s", firstText[0], firstText[1], firstText[2]);
+        result[1] = String.format("Last record of calls, %s calls %s at time %s, lasting %s seconds", lastCall[0], lastCall[1], lastCall[2], lastCall[3]);
+        return result;
     }
 }

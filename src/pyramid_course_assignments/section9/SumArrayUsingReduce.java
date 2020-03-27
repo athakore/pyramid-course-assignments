@@ -7,9 +7,11 @@ package pyramid_course_assignments.section9;
         sumArrayUsingReduce([1 2 3]) => 6
 */
 
+import java.util.Arrays;
+
 public class SumArrayUsingReduce {
     public static int sumArrayUsingReduce(int [] nums) {
         // ↓↓↓↓ your code goes here ↓↓↓↓
-        return 0;
+        return Arrays.stream(nums).reduce(0, (acc, next) -> acc + next);
     }
 }

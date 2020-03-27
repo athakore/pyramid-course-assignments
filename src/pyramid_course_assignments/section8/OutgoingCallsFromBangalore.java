@@ -17,8 +17,22 @@ package pyramid_course_assignments.section8;
         outgoingCallsFromBangalore() => "080 110 5538"
 */
 
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.util.Arrays;
+import java.util.List;
+
 public class OutgoingCallsFromBangalore {
-    public static String outgoingCallsFromBangalore() {
-        return "";
+    public static String outgoingCallsFromBangalore() throws IOException {
+        String result = Files.readAllLines(Paths.get("./src/pyramid_course_assignments/section8/calls.csv")).stream().filter(call -> {
+            String[] temp = call.split(",");
+            return temp[0].substring(0, 5).equals("(080)");
+        }).map(call -> {
+            String[] temp = call.split(",");
+            return temp[1].charAt(0) == '(' ? temp[1].substring(1, 4) : temp[1].substring(0, 4);
+        }).distinct().sorted().reduce("", (acc, next) -> acc + next + " ").trim();
+        System.out.println("\"" + result + "\"");
+        return result;
     }
 }
